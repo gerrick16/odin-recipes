@@ -1,0 +1,40 @@
+* {
+    font-family: 'Times New Roman', 'sans-serif';
+    background-color: aquamarine;
+}
+
+#menu {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#content {
+    margin: 100px 300px;
+    }
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+}
+
+.recipeList {
+    display: block;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 75px;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
+
+img {
+    display: block;
+    width: 450px;
+    margin: auto;
+}
+
